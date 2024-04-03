@@ -8,7 +8,7 @@
   
 <h1>Antd Block</h1>
 
-a shadn's style block with antd
+a shadcn's style block with antd
 
 
 
